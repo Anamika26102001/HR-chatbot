@@ -1,0 +1,104 @@
+{
+  "employees": [
+    {
+      "id": 1,
+      "name": "Sarah Chen",
+      "skills": ["Python", "Machine Learning", "TensorFlow", "Healthcare Analytics"],
+      "experience_years": 6,
+      "projects": ["Medical Diagnosis Platform", "Patient Data Analytics", "Healthcare AI Solutions"],
+      "availability": "available",
+      "specialization": "Healthcare AI",
+      "location": "Boston"
+    },
+    {
+      "id": 2,
+      "name": "Michael Rodriguez",
+      "skills": ["Python", "scikit-learn", "AWS", "Data Engineering"],
+      "experience_years": 4,
+      "projects": ["Patient Risk Prediction", "Electronic Health Records System", "Clinical Trial Analytics"],
+      "availability": "available",
+      "specialization": "Clinical Data Science",
+      "location": "San Francisco"
+    },
+    {
+      "id": 3,
+      "name": "Emily Watson",
+      "skills": ["React", "Node.js", "TypeScript", "UI/UX Design"],
+      "experience_years": 5,
+      "projects": ["Healthcare Dashboard", "Patient Portal", "Medical Records Interface"],
+      "availability": "unavailable",
+      "specialization": "Frontend Development",
+      "location": "New York"
+    },
+    {
+      "id": 4,
+      "name": "James Kumar",
+      "skills": ["Python", "Docker", "Kubernetes", "AWS", "DevOps"],
+      "experience_years": 7,
+      "projects": ["Cloud Infrastructure Migration", "Microservices Architecture", "CI/CD Pipeline"],
+      "availability": "available",
+      "specialization": "DevOps Engineering",
+      "location": "Seattle"
+    },
+    {
+      "id": 5,
+      "name": "Lisa Zhang",
+      "skills": ["Java", "Spring Boot", "React Native", "Mobile Development"],
+      "experience_years": 4,
+      "projects": ["Mobile Health App", "Telemedicine Platform", "Patient Monitoring System"],
+      "availability": "available",
+      "specialization": "Mobile Development",
+      "location": "Austin"
+    },
+    {
+      "id": 6,
+      "name": "David Anderson",
+      "skills": ["Python", "Django", "PostgreSQL", "System Architecture"],
+      "experience_years": 8,
+      "projects": ["Hospital Management System", "Medical Billing Platform", "Healthcare API Gateway"],
+      "availability": "unavailable",
+      "specialization": "Backend Development",
+      "location": "Chicago"
+    },
+    {
+      "id": 7,
+      "name": "Priya Patel",
+      "skills": ["React", "Vue.js", "UI/UX", "Frontend Testing"],
+      "experience_years": 3,
+      "projects": ["Medical Dashboard", "Pharmacy Management UI", "Doctor Scheduling System"],
+      "availability": "available",
+      "specialization": "Frontend Development",
+      "location": "Toronto"
+    },
+    {
+      "id": 8,
+      "name": "Alex Thompson",
+      "skills": ["Python", "Machine Learning", "NLP", "Deep Learning"],
+      "experience_years": 5,
+      "projects": ["Medical Text Analysis", "Disease Prediction Model", "Drug Discovery AI"],
+      "availability": "available",
+      "specialization": "ML Research",
+      "location": "Cambridge"
+    },
+    {
+      "id": 9,
+      "name": "Maria Gonzalez",
+      "skills": ["Full Stack", "React", "Node.js", "MongoDB"],
+      "experience_years": 6,
+      "projects": ["E-commerce Platform", "Social Media Dashboard", "CRM System"],
+      "availability": "available",
+      "specialization": "Full Stack Development",
+      "location": "Miami"
+    },
+    {
+      "id": 10,
+      "name": "Thomas Lee",
+      "skills": ["DevOps", "AWS", "Azure", "Terraform"],
+      "experience_years": 7,
+      "projects": ["Cloud Migration", "Infrastructure Automation", "Security Implementation"],
+      "availability": "unavailable",
+      "specialization": "Cloud Architecture",
+      "location": "Portland"
+    }
+  ]
+} 
