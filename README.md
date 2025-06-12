@@ -84,4 +84,4 @@ I have used Cursor AI for the development of Frontend and stackoverflow for erro
 Utilised Cursor AI for assistance in building the Frontend and generating the static data. Used mostly for certain utility functions and generating Regex for filteration purposes.
 
 ## Demo
-[Demo link will be added here] 
+(https://drive.google.com/file/d/1Qtvy_LdY6oxw4DcVb5J-8l6dg3JF6WzV/view?usp=sharing)
