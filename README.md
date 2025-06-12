@@ -76,5 +76,12 @@ streamlit run frontend/app.py
 - Multi-language support
 - Enhanced security features
 
+
+### Which AI coding assistants did I use?
+I have used Cursor AI for the development of Frontend and stackoverflow for error handling and debugging the code.
+
+### What percentage of code was AI-assisted?
+Utilised Cursor AI for assistance in building the Frontend and generating the static data. Used mostly for certain utility functions and generating Regex for filteration purposes.
+
 ## Demo
 [Demo link will be added here] 
